@@ -1,0 +1,9 @@
+c:\users\rares\source\repos\lab3dotnet\lab3dotnet\bin\Debug\netcoreapp2.0\lab3dotnet.deps.json
+c:\users\rares\source\repos\lab3dotnet\lab3dotnet\bin\Debug\netcoreapp2.0\lab3dotnet.dll
+c:\users\rares\source\repos\lab3dotnet\lab3dotnet\bin\Debug\netcoreapp2.0\lab3dotnet.pdb
+c:\users\rares\source\repos\lab3dotnet\lab3dotnet\obj\Debug\netcoreapp2.0\lab3dotnet.csprojResolveAssemblyReference.cache
+c:\users\rares\source\repos\lab3dotnet\lab3dotnet\obj\Debug\netcoreapp2.0\lab3dotnet.csproj.CoreCompileInputs.cache
+c:\users\rares\source\repos\lab3dotnet\lab3dotnet\obj\Debug\netcoreapp2.0\lab3dotnet.AssemblyInfoInputs.cache
+c:\users\rares\source\repos\lab3dotnet\lab3dotnet\obj\Debug\netcoreapp2.0\lab3dotnet.AssemblyInfo.cs
+c:\users\rares\source\repos\lab3dotnet\lab3dotnet\obj\Debug\netcoreapp2.0\lab3dotnet.dll
+c:\users\rares\source\repos\lab3dotnet\lab3dotnet\obj\Debug\netcoreapp2.0\lab3dotnet.pdb

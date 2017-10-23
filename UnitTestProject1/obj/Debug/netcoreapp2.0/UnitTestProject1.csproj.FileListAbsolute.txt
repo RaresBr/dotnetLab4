@@ -1,0 +1,16 @@
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.deps.json
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.dll
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.pdb
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\bin\Debug\netcoreapp2.0\lab3dotnet.dll
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\bin\Debug\netcoreapp2.0\lab3dotnet.pdb
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.dll
+c:\users\rares\source\repos\lab3dotnet\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.pdb
